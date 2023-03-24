@@ -6,7 +6,7 @@ Recursion is a powerful technique that can be used to solve many programming pro
 ***Recursive functions must have a base case:***
 This is the condition that determines when the recursion should stop. Without a base case, the function will keep calling itself indefinitely, eventually leading to a stack overflow error.
 
-***Recursive functions can have multiple recursive calls: ***
+**Recursive functions can have multiple recursive calls:**
 In some cases, a recursive function may need to make more than one recursive call to itself. This can make the function more complex, but it can also make it more efficient.
 
 ***Recursive functions can use helper functions:***
